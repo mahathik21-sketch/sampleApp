@@ -1,7 +1,7 @@
-recycleItem,zipcode,recycleEvent
+Item,ZipCode,Location
 Pizza boxes,75063,"Cut off greasy parts, then recycle the rest @ City of Irving Curbside Recycling Program "
-batteries ,75063,"AOK Computer Service & Recycling - 10944 Grissom Ln, Ste. 740/ 605, Dallas, TX 75229"
-alkaline batteries ,75063,"AOK Computer Service & Recycling - 10944 Grissom Ln, Ste. 740/ 605, Dallas, TX 75229"
+batteries,75063,"AOK Computer Service & Recycling - 10944 Grissom Ln, Ste. 740/ 605, Dallas, TX 75229"
+alkaline batteries,75063,"AOK Computer Service & Recycling - 10944 Grissom Ln, Ste. 740/ 605, Dallas, TX 75229"
 car batteries,75063,"Walmart Supercenter - 1635 Market Pl Blvd, Irving, TX 75063"
 Glass Items,75063,City of Irving Curbside Recycling Program
 Prescription Drugs,75063,"bottles - If larger than 2 in x 2 in, recycle @ City of Irving Curbside Recycling Program"
